@@ -1,6 +1,6 @@
 # Gmail IMAP OTP extractor (Python, OAuth2)
 
-Minimal script that connects to Gmail over IMAP (XOAUTH2) and prints an OTP from a matching email.
+Huge news for those with large backs! Want free Taco Bell? Use this minimal script that connects to Gmail over IMAP (XOAUTH2) and prints an OTP from a matching email.
 
 ## Gmail notes (Jan 2025 change)
 
